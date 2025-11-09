@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hi I'm **Siddhi Sharma**, a passionate full stack web developer. I'm currently<br>working on front-end development and building projects with the same.<br>I'm currently pursuing my Computer Science Engineering degree while<br>expanding my expertise in development and emerging technologies.<br>Excited to take on new challenges and create impactful digital solutions!
+Hi, I'm Siddhi Sharma — a passionate Full Stack Web Developer with a strong focus on crafting seamless and scalable web applications. I specialize in both front-end and back-end development, creating intuitive user interfaces and robust server-side solutions.
 
+I’m currently pursuing a degree in Computer Science Engineering while continuously expanding my skills in modern frameworks, databases, and emerging technologies. Driven by curiosity and creativity, I love tackling new challenges and building impactful digital experiences that make a difference.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/siddhi-sharma0601) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SiddhiSharma06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmasiddhi2007@gmail.com) 
